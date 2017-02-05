@@ -1,0 +1,8 @@
+{
+  "name": "mdxproject",
+  "private": true,
+  "dependencies": {
+    "angular": "1.6.1",
+    "bootstrap": "3.3.6"
+  }
+}
